@@ -132,6 +132,7 @@ jupyter notebook Pneumonia_Detection_via_ResNet50.ipynb
 
 ## 📁 Repository Structure
 
+```
 pneumonia-resnet50/
 │
 ├── Pneumonia_Detection_via_ResNet50.ipynb
@@ -143,6 +144,7 @@ pneumonia-resnet50/
 │   └── ROC Curve.png
 │
 └── README.md
+```
 
 ---
 

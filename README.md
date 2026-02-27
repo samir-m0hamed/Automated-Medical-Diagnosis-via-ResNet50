@@ -34,7 +34,7 @@ This project implements a complete medical image classification workflow:
 ## 📊 Training Performance
 
 ### Phase 1 — Feature Extraction
-![Feature Extraction Results](Pneumpnia%20Detection%20via%20ResNet/Feature%20Extraction%20Results.png)
+![Feature Extraction Results](Pneumonia%20Detection%20via%20ResNet/Feature%20Extraction%20Results.png)
 
 | Metric | Observation |
 |---|---|
@@ -48,7 +48,7 @@ This project implements a complete medical image classification workflow:
 ---
 
 ### Phase 2 — Fine-Tuning
-![Fine Tuning Results](Pneumpnia%20Detection%20via%20ResNet/fine%20tuning%20results.png)
+![Fine Tuning Results](Pneumonia%20Detection%20via%20ResNet/fine%20tuning%20results.png)
 
 | Metric | Observation |
 |---|---|
@@ -63,7 +63,7 @@ This project implements a complete medical image classification workflow:
 
 ## 📉 ROC Curve
 
-![ROC Curve](Pneumpnia%20Detection%20via%20ResNet/ROC%20Curve.png)
+![ROC Curve](Pneumonia%20Detection%20via%20ResNet/ROC%20Curve.png)
 
 | Metric | Value |
 |---|---|
@@ -74,7 +74,7 @@ This project implements a complete medical image classification workflow:
 
 ## 🔬 Confusion Matrix
 
-![Confusion Matrix](Pneumpnia%20Detection%20via%20ResNet/confusion%20matrix.png)
+![Confusion Matrix](Pneumonia%20Detection%20via%20ResNet/confusion%20matrix.png)
 
 | Actual \ Predicted | Normal | Pneumonia |
 |---|---|---|

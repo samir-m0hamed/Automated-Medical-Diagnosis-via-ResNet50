@@ -1,4 +1,4 @@
-# Pneumonia Detection via ResNet50 (Transfer Learning & Fine-Tuning)
+# 🫁 Pneumonia Detection via ResNet50 (Transfer Learning + Fine-Tuning)
 
 Deep learning system for automated pneumonia classification from chest X-ray images using a pretrained ResNet50 architecture.  
 The pipeline follows a two-stage training strategy: feature extraction and full network fine-tuning to maximize diagnostic performance.
@@ -34,7 +34,7 @@ This project implements a complete medical image classification workflow:
 ## 📊 Training Performance
 
 ### Phase 1 — Feature Extraction
-![Feature Extraction Results](Feature%20Extraction%20Results.png)
+![Feature Extraction Results](Pneumpnia%20Detection%20via%20ResNet/Feature%20Extraction%20Results.png)
 
 | Metric | Observation |
 |---|---|
@@ -48,7 +48,7 @@ This project implements a complete medical image classification workflow:
 ---
 
 ### Phase 2 — Fine-Tuning
-![Fine Tuning Results](fine%20tuning%20results.png)
+![Fine Tuning Results](Pneumpnia%20Detection%20via%20ResNet/fine%20tuning%20results.png)
 
 | Metric | Observation |
 |---|---|
@@ -63,7 +63,7 @@ This project implements a complete medical image classification workflow:
 
 ## 📉 ROC Curve
 
-![ROC Curve](ROC%20Curve.png)
+![ROC Curve](Pneumpnia%20Detection%20via%20ResNet/ROC%20Curve.png)
 
 | Metric | Value |
 |---|---|
@@ -74,7 +74,7 @@ This project implements a complete medical image classification workflow:
 
 ## 🔬 Confusion Matrix
 
-![Confusion Matrix](confusion%20matrix.png)
+![Confusion Matrix](Pneumpnia%20Detection%20via%20ResNet/confusion%20matrix.png)
 
 | Actual \ Predicted | Normal | Pneumonia |
 |---|---|---|
@@ -128,19 +128,28 @@ pip install -r requirements.txt
 jupyter notebook Pneumonia_Detection_via_ResNet50.ipynb
 ```
 
+---
+
 ## 📁 Repository Structure
 
 ├── Pneumonia_Detection_via_ResNet50.ipynb
-├── confusion matrix.png
-├── Feature Extraction Results.png
-├── fine tuning results.png
-├── ROC Curve.png
+├── Pneumpnia Detection via ResNet/
+│   ├── confusion matrix.png
+│   ├── Feature Extraction Results.png
+│   ├── fine tuning results.png
+│   └── ROC Curve.png
 └── README.md
+
+---
 
 ## 📜 License
 
 This project is for research and educational purposes
 
+---
+
 ## 👩‍💻 Author
 
 **Samir Mohamed : AI & Computer Vision Engineer**
+
+---
